@@ -28,7 +28,7 @@ To run the Stopwatch App locally on your machine, follow these steps:
    ```
 2. Navigate into the project directory:
    ```bash
-   cd stopwatch-app
+   cd BYTEUPRISE_AD_02
    ```
 3. Install the dependencies:
    ```bash
