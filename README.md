@@ -1,16 +1,40 @@
-# byteuprise_ad_02
+# Stopwatch App
 
-A new Flutter project.
+## Overview
+
+The Stopwatch App is a simple and intuitive mobile application developed using Flutter. It is designed to track time with precision, displaying milliseconds, seconds, and minutes. This app was created as part of my Android development internship at ByteUprise.
+
+## Features
+
+- **Accurate Time Tracking**: Displays milliseconds, seconds, and minutes.
+- **Start/Stop Functionality**: Easily start and stop the timer with a single tap.
+- **Reset Option**: Clear the current timing and start afresh.
+- **User-Friendly Interface**: Clean and intuitive design for an optimal user experience.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the Stopwatch App locally on your machine, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev/docs/get-started/install) installed on your machine.
+- An IDE with Flutter support (e.g., Visual Studio Code, Android Studio).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/OmarHossam666/BYTEUPRISE_AD_02.git
+   ```
+2. Navigate into the project directory:
+   ```bash
+   cd stopwatch-app
+   ```
+3. Install the dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the app:
+   ```bash
+   flutter run
+   ```
